@@ -221,4 +221,4 @@ st.markdown("""
 # Footer
 st.markdown("<hr>", unsafe_allow_html=True)
 
-st.markdown("<p style='text-align: center; color: green;'>Made by Tayyab Aziz</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: green;'>Made by MUHAMMAD ABDUR REHMAN</p>", unsafe_allow_html=True)
